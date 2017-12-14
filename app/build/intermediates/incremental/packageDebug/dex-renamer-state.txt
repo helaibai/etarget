@@ -1,0 +1,4 @@
+#Thu Dec 14 20:40:08 CST 2017
+base.0=D\:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

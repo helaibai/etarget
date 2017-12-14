@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button_pressed.9.png",
+        "source": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\src\\main\\res\\drawable-hdpi\\bg_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bg_button.9.png",
+        "source": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\src\\main\\res\\drawable-hdpi\\bg_button.9.png"
+    },
+    {
+        "merged": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\hc.png",
+        "source": "D:\\eTarget\\app\\android\\Android-ble-master\\Android-ble-master\\HC_BLE\\app\\src\\main\\res\\drawable-hdpi\\hc.png"
+    }
+]
